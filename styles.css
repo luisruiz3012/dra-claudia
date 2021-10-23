@@ -12,10 +12,6 @@ html {
     overflow-x: hidden;
 }
 
-.image-area {
-    overflow-y: hidden;
-}
-
 #button {
     font-size: 1.5rem;
     border-radius: 50px;
@@ -308,6 +304,7 @@ form label {
         width: 100px;
         height: 100px;
         border-radius: 50%;
+        overflow-y: hidden;
     }
 
     .service_years img {
