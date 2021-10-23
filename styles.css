@@ -12,6 +12,10 @@ html {
     overflow-x: hidden;
 }
 
+.image-area img {
+    overflow-y: hidden;
+}
+
 #button {
     font-size: 1.5rem;
     border-radius: 50px;
