@@ -201,6 +201,10 @@ form label {
 }
 
 @media screen and (max-width: 768px) {
+    nav ul li {
+        font-size: 2rem;
+    }
+
     .main-banner {
         height: 80vh;
         display: grid;
